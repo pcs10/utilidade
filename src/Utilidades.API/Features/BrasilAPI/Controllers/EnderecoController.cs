@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Net;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Interfaces;
+using Utilidades.API.Features.BrasilAPI.Interfaces;
 
 namespace Utilidades.API.Features.BuscaCepBrasilAPI.Controllers
 {

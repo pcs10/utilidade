@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
 using System.Net;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Interfaces;
+using Utilidades.API.Features.BrasilAPI.Interfaces;
 
-namespace Utilidades.API.Features.BuscaCepBrasilAPI.Controllers
+namespace Utilidades.API.Features.BrasilAPI.Controllers
 {
     [ApiController]
     [Route("api/v1/[controller]")]

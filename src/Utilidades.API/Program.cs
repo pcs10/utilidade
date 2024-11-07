@@ -1,7 +1,7 @@
-using Utilidades.API.Features.BuscaCepBrasilAPI.Interfaces;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Mappings;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Rest;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Services;
+using Utilidades.API.Features.BrasilAPI.Interfaces;
+using Utilidades.API.Features.BrasilAPI.Mappings;
+using Utilidades.API.Features.BrasilAPI.Rest;
+using Utilidades.API.Features.BrasilAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

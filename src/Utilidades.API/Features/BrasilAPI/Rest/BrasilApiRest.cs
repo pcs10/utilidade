@@ -1,10 +1,10 @@
 ﻿using System.Dynamic;
 using System.Text.Json;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Dtos;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Interfaces;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Models;
+using Utilidades.API.Features.BrasilAPI.Dtos;
+using Utilidades.API.Features.BrasilAPI.Interfaces;
+using Utilidades.API.Features.BrasilAPI.Models;
 
-namespace Utilidades.API.Features.BuscaCepBrasilAPI.Rest
+namespace Utilidades.API.Features.BrasilAPI.Rest
 {
     public class BrasilApiRest : IBrasilApi
     {

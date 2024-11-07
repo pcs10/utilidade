@@ -1,7 +1,7 @@
 ﻿using System.Dynamic;
 using System.Net;
 
-namespace Utilidades.API.Features.BuscaCepBrasilAPI.Dtos
+namespace Utilidades.API.Features.BrasilAPI.Dtos
 {
     public class ResponseGenerico<T> where T : class
     {

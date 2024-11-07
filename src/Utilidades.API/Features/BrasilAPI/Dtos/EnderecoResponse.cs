@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace Utilidades.API.Features.BuscaCepBrasilAPI.Dtos
+namespace Utilidades.API.Features.BrasilAPI.Dtos
 {
     public class EnderecoResponse
     {

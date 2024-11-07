@@ -1,7 +1,7 @@
-﻿using Utilidades.API.Features.BuscaCepBrasilAPI.Dtos;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Models;
+﻿using Utilidades.API.Features.BrasilAPI.Dtos;
+using Utilidades.API.Features.BrasilAPI.Models;
 
-namespace Utilidades.API.Features.BuscaCepBrasilAPI.Interfaces
+namespace Utilidades.API.Features.BrasilAPI.Interfaces
 {
     public interface IBrasilApi
     {

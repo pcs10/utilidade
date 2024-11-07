@@ -1,6 +1,6 @@
-﻿using Utilidades.API.Features.BuscaCepBrasilAPI.Dtos;
+﻿using Utilidades.API.Features.BrasilAPI.Dtos;
 
-namespace Utilidades.API.Features.BuscaCepBrasilAPI.Interfaces
+namespace Utilidades.API.Features.BrasilAPI.Interfaces
 {
     public interface IEnderecoService
     {

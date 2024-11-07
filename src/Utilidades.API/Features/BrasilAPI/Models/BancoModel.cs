@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace Utilidades.API.Features.BuscaCepBrasilAPI.Models
+namespace Utilidades.API.Features.BrasilAPI.Models
 {
     public class BancoModel
     {

@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Dtos;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Interfaces;
+using Utilidades.API.Features.BrasilAPI.Dtos;
+using Utilidades.API.Features.BrasilAPI.Interfaces;
 
-namespace Utilidades.API.Features.BuscaCepBrasilAPI.Services
+namespace Utilidades.API.Features.BrasilAPI.Services
 {
     public class BancoService : IBancoService
     {

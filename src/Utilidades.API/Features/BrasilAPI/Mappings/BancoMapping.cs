@@ -1,9 +1,9 @@
 ﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Dtos;
+using Utilidades.API.Features.BrasilAPI.Dtos;
 using AutoMapper;
-using Utilidades.API.Features.BuscaCepBrasilAPI.Models;
+using Utilidades.API.Features.BrasilAPI.Models;
 
-namespace Utilidades.API.Features.BuscaCepBrasilAPI.Mappings
+namespace Utilidades.API.Features.BrasilAPI.Mappings
 {
     public class BancoMapping : Profile
     {
