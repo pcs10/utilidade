@@ -6,7 +6,7 @@ using Utilidades.API.Features.BrasilAPI.Interfaces;
 namespace Utilidades.API.Features.BrasilAPI.Controllers
 {
     [ApiController]
-    [Route("api/v1/[controller]")] //teste
+    [Route("api/v1/brasilapi/[controller]")] //teste
     public class BancoController : ControllerBase
     {
         public readonly IBancoService _bancoService;

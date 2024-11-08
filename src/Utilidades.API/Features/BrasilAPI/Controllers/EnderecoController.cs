@@ -5,7 +5,7 @@ using Utilidades.API.Features.BrasilAPI.Interfaces;
 namespace Utilidades.API.Features.BuscaCepBrasilAPI.Controllers
 {
     [ApiController]
-    [Route("api/v1/[controller]")]
+    [Route("api/v1/brasilapi/[controller]")]
     public class EnderecoController : ControllerBase
     {
         public readonly IEnderecoService _enderecoService;
